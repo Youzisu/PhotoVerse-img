@@ -5,10 +5,10 @@ const URL_SOURCES = [
     'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/1url.txt',
     'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/2url.txt',
     'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/3url.txt',
-    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/blob/main/url1.txt',
-    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/blob/main/url2.txt',
-    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/blob/main/url3.txt',
-    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/blob/main/url4.txt'
+    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/url1.txt',
+    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/url2.txt',
+    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/url3.txt',
+    'https://raw.githubusercontent.com/Youzisu/PhotoVerse-img/refs/heads/main/url4.txt'
 ];
 
 // HTML template for the gallery
